@@ -8,7 +8,7 @@
         "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
         ],
         "stock": 5,
-        "size":"M",
+        "size":"S",
         "categories":["sport","modern"]
     },
     {
@@ -19,7 +19,7 @@
         "images":[ "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
         "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
         ],
-        "stock": 5,
+        "stock": 10,
         "size":"M",
         "categories":["jeans","denim"]
     },
@@ -31,8 +31,8 @@
         "images":[ "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
         "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
         ],
-        "stock": 5,
-        "size":"M",
+        "stock": 18,
+        "size":"L",
         "categories":["casual"]
     }
 ]
